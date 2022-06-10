@@ -1,1 +1,1 @@
-![](public/images/erd.PNG)
+![](public/images/erd1.jpg)
